@@ -1,4 +1,4 @@
-[{"id":1,"first_name":"Collete","last_name":"Graddon","email":"cgraddon0@amazon.co.uk","gender":"Female"},
+{"id":1,"first_name":"Collete","last_name":"Graddon","email":"cgraddon0@amazon.co.uk","gender":"Female"},
 {"id":2,"first_name":"Willi","last_name":"Divall","email":"wdivall1@arstechnica.com","gender":"Male"},
 {"id":3,"first_name":"Gusella","last_name":"Longthorne","email":"glongthorne2@trellian.com","gender":"Female"},
 {"id":4,"first_name":"Art","last_name":"Fawlkes","email":"afawlkes3@ocn.ne.jp","gender":"Male"},
@@ -47,4 +47,4 @@
 {"id":47,"first_name":"Myron","last_name":"Thickens","email":"mthickens1a@printfriendly.com","gender":"Male"},
 {"id":48,"first_name":"Niles","last_name":"Gipson","email":"ngipson1b@dropbox.com","gender":"Male"},
 {"id":49,"first_name":"Caralie","last_name":"Komorowski","email":"ckomorowski1c@cnbc.com","gender":"Femalce"},
-{"id":50,"first_name":"Geordie","last_name":"Cadamy","email":"gcadamy1d@wired.com","gender":"Male"}]
+{"id":50,"first_name":"Geordie","last_name":"Cadamy","email":"gcadamy1d@wired.com","gender":"Male"}
